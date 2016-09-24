@@ -16,3 +16,5 @@ function getCity(req, res) {
 			res.status(500).end('Error inside searchController inside getCity')
 		})
 }
+
+
